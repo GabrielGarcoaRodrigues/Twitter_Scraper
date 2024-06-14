@@ -1,0 +1,4 @@
+Busca = "Chat GPT"
+Tweets = 30
+Inicio = 01-01-2024
+Final = 01-04-2024
